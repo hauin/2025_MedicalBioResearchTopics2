@@ -1,0 +1,247 @@
+Index,Abbreviation,Full_Name,Lobe
+1,A9m_L,"Medial frontal cortex, area 9",Frontal
+2,A8vl_L,"Ventrolateral prefrontal cortex, area 8",Frontal
+3,A9l_L,"Lateral frontal cortex, area 9",Frontal
+4,A46_L,"Dorsolateral prefrontal cortex, area 46",Frontal
+5,A10m_L,"Medial frontal polar cortex, area 10",Frontal
+6,A10l_L,"Lateral frontal polar cortex, area 10",Frontal
+7,A47l_L,Lateral area 47,Frontal
+8,A13_L,"Orbital frontal cortex, area 13",Frontal
+9,A11m_L,"Medial orbital frontal cortex, area 11",Frontal
+10,A47m_L,Medial area 47,Frontal
+11,A10r_L,Rostral area 10,Frontal
+12,A11l_L,"Lateral orbital frontal cortex, area 11",Frontal
+13,A12_L,"Orbital frontal cortex, area 12",Frontal
+14,A8dl_L,Dorsolateral area 8,Frontal
+15,A8m_L,Medial area 8,Frontal
+16,A9m_L,Medial area 9,Frontal
+17,A6vl_L,Ventrolateral area 6,Frontal
+18,A6m_L,Medial area 6 (SMA),Frontal
+19,A4ul_L,"Upper limb region, area 4",Frontal
+20,A4t_L,"Tongue and larynx region, area 4",Frontal
+21,A4tl_L,"Trunk and lower limb region, area 4",Frontal
+22,A6dl_L,Dorsolateral area 6,Frontal
+23,A6cdl_L,Caudal dorsolateral area 6,Frontal
+24,A6cvl_L,Caudal ventrolateral area 6,Frontal
+25,A44op_L,Opercular area 44,Frontal
+26,A44d_L,Dorsal area 44,Frontal
+27,A44v_L,Ventral area 44,Frontal
+28,A45c_L,Caudal area 45,Frontal
+29,A45r_L,Rostral area 45,Frontal
+30,IFS_L,Inferior frontal sulcus,Frontal
+31,A6mr_L,Medial rostral area 6,Frontal
+32,A8vl_L,Ventrolateral area 8 (FEF),Frontal
+33,A9m_R,"Medial frontal cortex, area 9",Frontal
+34,A8vl_R,"Ventrolateral prefrontal cortex, area 8",Frontal
+35,A9l_R,"Lateral frontal cortex, area 9",Frontal
+36,A46_R,"Dorsolateral prefrontal cortex, area 46",Frontal
+37,A10m_R,"Medial frontal polar cortex, area 10",Frontal
+38,A10l_R,"Lateral frontal polar cortex, area 10",Frontal
+39,A47l_R,Lateral area 47,Frontal
+40,A13_R,"Orbital frontal cortex, area 13",Frontal
+41,A11m_R,"Medial orbital frontal cortex, area 11",Frontal
+42,A47m_R,Medial area 47,Frontal
+43,A10r_R,Rostral area 10,Frontal
+44,A11l_R,"Lateral orbital frontal cortex, area 11",Frontal
+45,A12_R,"Orbital frontal cortex, area 12",Frontal
+46,A8dl_R,Dorsolateral area 8,Frontal
+47,A8m_R,Medial area 8,Frontal
+48,A9m_R,Medial area 9,Frontal
+49,A6vl_R,Ventrolateral area 6,Frontal
+50,A6m_R,Medial area 6 (SMA),Frontal
+51,A4ul_R,"Upper limb region, area 4",Frontal
+52,A4t_R,"Tongue and larynx region, area 4",Frontal
+53,A4tl_R,"Trunk and lower limb region, area 4",Frontal
+54,A6dl_R,Dorsolateral area 6,Frontal
+55,A6cdl_R,Caudal dorsolateral area 6,Frontal
+56,A6cvl_R,Caudal ventrolateral area 6,Frontal
+57,A44op_R,Opercular area 44,Frontal
+58,A44d_R,Dorsal area 44,Frontal
+59,A44v_R,Ventral area 44,Frontal
+60,A45c_R,Caudal area 45,Frontal
+61,A45r_R,Rostral area 45,Frontal
+62,IFS_R,Inferior frontal sulcus,Frontal
+63,A6mr_R,Medial rostral area 6,Frontal
+64,A8vl_R,Ventrolateral area 8 (FEF),Frontal
+65,A3ul_L,"Upper limb region, area 3",Parietal
+66,A3t_L,"Tongue and larynx region, area 3",Parietal
+67,A3tl_L,"Trunk and lower limb region, area 3",Parietal
+68,A1/2/3tonIa_L,"Tongue and larynx region, area 1/2/3",Parietal
+69,A1/2/3ulhf_L,"Upper limb and head/face region, area 1/2/3",Parietal
+70,A1/2/3tru_L,"Trunk region, area 1/2/3",Parietal
+71,A1/2/3ll_L,"Lower limb region, area 1/2/3",Parietal
+72,A2_L,Area 2,Parietal
+73,A40rv_L,Rostroventral area 40,Parietal
+74,A40rd_L,Rostrodorsal area 40,Parietal
+75,A40c_L,Caudal area 40,Parietal
+76,A39rv_L,Rostroventral area 39,Parietal
+77,A39c_L,Caudal area 39,Parietal
+78,A39rd_L,Rostrodorsal area 39,Parietal
+79,A7r_L,Rostral area 7,Parietal
+80,A7c_L,Caudal area 7 (PCC),Parietal
+81,A7m_L,Medial area 7,Parietal
+82,A7ip_L,Intraparietal area 7,Parietal
+83,A5m_L,Medial area 5,Parietal
+84,A5l_L,Lateral area 5,Parietal
+85,A7pc_L,Precuneus area 7,Parietal
+86,A23_L,Area 23,Parietal
+87,A31_L,Area 31 (PCC),Parietal
+88,A24_L,Area 24 (ACC),Parietal
+89,A32p_L,Posterior area 32,Parietal
+90,A32sg_L,Subgenual area 32,Parietal
+91,A6m_L,Supplementary motor area (SMA),Parietal
+92,A24p_L,Posterior area 24,Parietal
+93,A23d_L,Dorsal area 23,Parietal
+94,A7l_L,Lateral area 7,Parietal
+95,A3ul_R,"Upper limb region, area 3",Parietal
+96,A3t_R,"Tongue and larynx region, area 3",Parietal
+97,A3tl_R,"Trunk and lower limb region, area 3",Parietal
+98,A1/2/3tonIa_R,"Tongue and larynx region, area 1/2/3",Parietal
+99,A1/2/3ulhf_R,"Upper limb and head/face region, area 1/2/3",Parietal
+100,A1/2/3tru_R,"Trunk region, area 1/2/3",Parietal
+101,A1/2/3ll_R,"Lower limb region, area 1/2/3",Parietal
+102,A2_R,Area 2,Parietal
+103,A40rv_R,Rostroventral area 40,Parietal
+104,A40rd_R,Rostrodorsal area 40,Parietal
+105,A40c_R,Caudal area 40,Parietal
+106,A39rv_R,Rostroventral area 39,Parietal
+107,A39c_R,Caudal area 39,Parietal
+108,A39rd_R,Rostrodorsal area 39,Parietal
+109,A7r_R,Rostral area 7,Parietal
+110,A7c_R,Caudal area 7 (PCC),Parietal
+111,A7m_R,Medial area 7,Parietal
+112,A7ip_R,Intraparietal area 7,Parietal
+113,A5m_R,Medial area 5,Parietal
+114,A5l_R,Lateral area 5,Parietal
+115,A7pc_R,Precuneus area 7,Parietal
+116,A23_R,Area 23,Parietal
+117,A31_R,Area 31 (PCC),Parietal
+118,A24_R,Area 24 (ACC),Parietal
+119,A32p_R,Posterior area 32,Parietal
+120,A32sg_R,Subgenual area 32,Parietal
+121,A6m_R,Supplementary motor area (SMA),Parietal
+122,A24p_R,Posterior area 24,Parietal
+123,A23d_R,Dorsal area 23,Parietal
+124,A7l_R,Lateral area 7,Parietal
+125,A22c_L,Caudal area 22 (Wernicke),Temporal
+126,A22r_L,Rostral area 22,Temporal
+127,A41/42_L,"Primary auditory cortex, area 41/42",Temporal
+128,A21c_L,Caudal area 21,Temporal
+129,A21r_L,Rostral area 21,Temporal
+130,A20iv_L,Inferior ventral area 20,Temporal
+131,A20il_L,Inferior lateral area 20,Temporal
+132,A20r_L,Rostral area 20,Temporal
+133,A20rv_L,Rostroventral area 20,Temporal
+134,A37el_L,External lateral area 37,Temporal
+135,A37dl_L,Dorsolateral area 37,Temporal
+136,A37lv_L,Lateroventral area 37,Temporal
+137,A37vl_L,Ventrolateral area 37,Temporal
+138,TE1a_L,Anterior TE1,Temporal
+139,TE1p_L,Posterior TE1,Temporal
+140,TE2a_L,Anterior TE2,Temporal
+141,TE2p_L,Posterior TE2,Temporal
+142,A36r_L,Rostral area 36,Temporal
+143,A36c_L,Caudal area 36,Temporal
+144,A35_L,Area 35 (perirhinal),Temporal
+145,A38m_L,Medial area 38,Temporal
+146,A38l_L,Lateral area 38,Temporal
+147,Hipp_L,Hippocampus,Temporal
+148,Amyg_L,Amygdala,Temporal
+149,A22s_L,Superior area 22,Temporal
+150,A20ci_L,Caudal inferior area 20,Temporal
+151,A20r_L,Rostral area 20,Temporal
+152,TE1m_L,Medial TE1,Temporal
+153,A34_L,Area 34,Temporal
+154,A28_L,Area 28 (entorhinal),Temporal
+155,A35r_L,Rostral area 35,Temporal
+156,A36m_L,Medial area 36,Temporal
+157,TI_L,Temporal insular,Temporal
+158,A22i_L,Inferior area 22,Temporal
+159,A22c_R,Caudal area 22 (Wernicke),Temporal
+160,A22r_R,Rostral area 22,Temporal
+161,A41/42_R,"Primary auditory cortex, area 41/42",Temporal
+162,A21c_R,Caudal area 21,Temporal
+163,A21r_R,Rostral area 21,Temporal
+164,A20iv_R,Inferior ventral area 20,Temporal
+165,A20il_R,Inferior lateral area 20,Temporal
+166,A20r_R,Rostral area 20,Temporal
+167,A20rv_R,Rostroventral area 20,Temporal
+168,A37el_R,External lateral area 37,Temporal
+169,A37dl_R,Dorsolateral area 37,Temporal
+170,A37lv_R,Lateroventral area 37,Temporal
+171,A37vl_R,Ventrolateral area 37,Temporal
+172,TE1a_R,Anterior TE1,Temporal
+173,TE1p_R,Posterior TE1,Temporal
+174,TE2a_R,Anterior TE2,Temporal
+175,TE2p_R,Posterior TE2,Temporal
+176,A36r_R,Rostral area 36,Temporal
+177,A36c_R,Caudal area 36,Temporal
+178,A35_R,Area 35 (perirhinal),Temporal
+179,A38m_R,Medial area 38,Temporal
+180,A38l_R,Lateral area 38,Temporal
+181,Hipp_R,Hippocampus,Temporal
+182,Amyg_R,Amygdala,Temporal
+183,A22s_R,Superior area 22,Temporal
+184,A20ci_R,Caudal inferior area 20,Temporal
+185,A20r_R,Rostral area 20,Temporal
+186,TE1m_R,Medial TE1,Temporal
+187,A34_R,Area 34,Temporal
+188,A28_R,Area 28 (entorhinal),Temporal
+189,A35r_R,Rostral area 35,Temporal
+190,A36m_R,Medial area 36,Temporal
+191,TI_R,Temporal insular,Temporal
+192,A22i_R,Inferior area 22,Temporal
+193,A17_L,Primary visual cortex (V1),Occipital
+194,A18_L,Secondary visual cortex (V2),Occipital
+195,A19_L,Associative visual cortex (V3),Occipital
+196,mOccG_L,Medial occipital gyrus,Occipital
+197,lOccG_L,Lateral occipital gyrus,Occipital
+198,Cuneate_L,Cuneus,Occipital
+199,OFuG_L,Occipital fusiform gyrus,Occipital
+200,Ling_L,Lingual gyrus,Occipital
+201,V3v_L,Ventral V3,Occipital
+202,V3d_L,Dorsal V3,Occipital
+203,V3A_L,Visual area V3A,Occipital
+204,V4v_L,Ventral V4,Occipital
+205,V5/MT_L,Middle temporal visual area (MT/V5),Occipital
+206,V7_L,Visual area V7,Occipital
+207,IPS_L,Intraparietal sulcus,Occipital
+208,SPL_L,Superior parietal lobule,Occipital
+209,Pcun_L,Precuneus,Occipital
+210,mOFC_L,Medial occipital frontal cortex,Occipital
+211,A17_R,Primary visual cortex (V1),Occipital
+212,A18_R,Secondary visual cortex (V2),Occipital
+213,A19_R,Associative visual cortex (V3),Occipital
+214,mOccG_R,Medial occipital gyrus,Occipital
+215,lOccG_R,Lateral occipital gyrus,Occipital
+216,Cuneate_R,Cuneus,Occipital
+217,OFuG_R,Occipital fusiform gyrus,Occipital
+218,Ling_R,Lingual gyrus,Occipital
+219,V3v_R,Ventral V3,Occipital
+220,V3d_R,Dorsal V3,Occipital
+221,V3A_R,Visual area V3A,Occipital
+222,V4v_R,Ventral V4,Occipital
+223,V5/MT_R,Middle temporal visual area (MT/V5),Occipital
+224,V7_R,Visual area V7,Occipital
+225,IPS_R,Intraparietal sulcus,Occipital
+226,SPL_R,Superior parietal lobule,Occipital
+227,Pcun_R,Precuneus,Occipital
+228,mOFC_R,Medial occipital frontal cortex,Occipital
+229,Ins_L,Insula,Insular
+230,Cau_L,Caudate,Subcortical
+231,Put_L,Putamen,Subcortical
+232,Pal_L,Pallidum,Subcortical
+233,Tha_L,Thalamus,Subcortical
+234,NAc_L,Nucleus accumbens,Subcortical
+235,GP_L,Globus pallidus,Subcortical
+236,Cereb_L,Cerebellum,Cerebellum
+237,Bstem_L,Brainstem,Brainstem
+238,Ins_R,Insula,Insular
+239,Cau_R,Caudate,Subcortical
+240,Put_R,Putamen,Subcortical
+241,Pal_R,Pallidum,Subcortical
+242,Tha_R,Thalamus,Subcortical
+243,NAc_R,Nucleus accumbens,Subcortical
+244,GP_R,Globus pallidus,Subcortical
+245,Cereb_R,Cerebellum,Cerebellum
+246,Bstem_R,Brainstem,Brainstem
